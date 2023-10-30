@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Lab | API Scavenger Game
-
+......
 ## Introduction
 
 In the lesson, you have learned how to make Python requests to APIs and parse the JSON responses to extract the information you need. In this lab, you will practice these skills by playing an API scavenger hunt game. In case you haven't played scavenger hunt when you were a kid, in a scavenger hunt players need to collect a list of items and they receive clues to help them in the mission. In this lab, you will be seeking secrets hidden inside the massive data from the API. Your data analytics skills will make you a cool API detective. 
